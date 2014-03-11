@@ -18,8 +18,8 @@ class Status(models.Model):
 
 
 class Question (models.Model):
-    title = models.CharField(max_length=128)
-    description = models.CharField(max_length=256)
+    title = models.CharField(max_length=256)
+    description = models.TextField(max_length=256)
     submitter = models.CharField(max_length=128)
     submitDate = models.DateTimeField('date submitted')
     tags = models.ManyToManyField(Tag,through="QuestionTag")
