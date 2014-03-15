@@ -57,8 +57,13 @@ WSGI_APPLICATION = 'BugTrackerFeedback.wsgi.application'
 # STATICFILES_DIRS = 'C:/Python33/Lib/site-packages/django/contrib/admin/static'
 # STATIC_URL = '/BugTrackerFeedback/static'
 # ADMIN_MEDIA_PREFIX = '/static/admin/'
+TEMPLATE_LOADER = (
+    'django.template.loaders.filesystem.Loader',
+    'django.template.loaders.app_directories.Loader')
 TEMPLATE_DIRS = (
-    "/BugTrackerFeedback/Feedback/templates",
+    "/BugTrackerFeedback/templates/",
+    # "/BugTrackerFeedback/Feedback/templates",
+
 )
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
