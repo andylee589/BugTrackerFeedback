@@ -52,7 +52,14 @@ ROOT_URLCONF = 'BugTrackerFeedback.urls'
 
 WSGI_APPLICATION = 'BugTrackerFeedback.wsgi.application'
 
-
+# MEDIA_ROOT = '/BugTrackerFeedback'
+# STATIC_ROOT = '/BugTrackerFeedback/static'
+# STATICFILES_DIRS = 'C:/Python33/Lib/site-packages/django/contrib/admin/static'
+# STATIC_URL = '/BugTrackerFeedback/static'
+# ADMIN_MEDIA_PREFIX = '/static/admin/'
+TEMPLATE_DIRS = (
+    "/BugTrackerFeedback/Feedback/templates",
+)
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
