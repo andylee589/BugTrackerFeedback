@@ -1,81 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de28fd02-a6a2-460c-89e0-a8d61527a95d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/base_site.html" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\changelists.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\forms.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\login.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\css\widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\changelist-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\changelist-bg_rtl.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\chooser-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\chooser_stacked-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\default-bg-reverse.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\default-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\deleted-overlay.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\gis\move_vertex_off.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\gis\move_vertex_on.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon-no.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon-unknown.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon-yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_addlink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_alert.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_calendar.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_changelink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_clock.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_deletelink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_error.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_searchbox.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\icon_success.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\inline-delete-8bit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\inline-delete.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\inline-restore-8bit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\inline-restore.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\inline-splitter-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\nav-bg-grabber.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\nav-bg-reverse.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\nav-bg-selected.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\nav-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\selector-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\selector-search.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\sorting-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tool-left.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tool-left_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tool-right.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tool-right_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tooltag-add.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tooltag-add_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tooltag-arrowright.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\img\tooltag-arrowright_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\LICENSE-JQUERY.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\SelectBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\SelectFilter2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\actions.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\actions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\admin\DateTimeShortcuts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\admin\RelatedObjectLookups.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\collapse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\inlines.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\inlines.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\jquery.init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\prepopulate.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\prepopulate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\timeparse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Hachi\Documents\GitHub\BugTrackerFeedback\static\admin\js\urlify.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BugTrackerFeedback/settings.py" afterPath="$PROJECT_DIR$/BugTrackerFeedback/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="de28fd02-a6a2-460c-89e0-a8d61527a95d" name="Default" comment="" />
     <ignored path="BugTrackerFeedback.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,7 +35,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BugTrackerFeedback/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="52" selection-start="1876" selection-end="1876" vertical-scroll-proportion="0.6005222" vertical-offset="1173" max-vertical-offset="2323">
+            <state line="61" column="52" selection-start="1876" selection-end="1876" vertical-scroll-proportion="-1.4020888" vertical-offset="1940" max-vertical-offset="2323">
               <folding />
             </state>
           </provider>
@@ -257,220 +183,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="BugTrackerFeedback" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BugTrackerFeedback" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.3.4 (C:/Python33/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -843,7 +555,11 @@
       <created>1394868777718</created>
       <updated>1394868777718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add apache deployment2">
+      <created>1394871230866</created>
+      <updated>1394871230866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -867,7 +583,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -905,7 +621,8 @@
     </option>
     <MESSAGE value="change the input width" />
     <MESSAGE value="add apache deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add apache deployment" />
+    <MESSAGE value="add apache deployment2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add apache deployment2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1185,7 +902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BugTrackerFeedback/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="52" selection-start="1876" selection-end="1876" vertical-scroll-proportion="0.6005222" vertical-offset="1173" max-vertical-offset="2323">
+        <state line="61" column="52" selection-start="1876" selection-end="1876" vertical-scroll-proportion="-1.4020888" vertical-offset="1940" max-vertical-offset="2323">
           <folding />
         </state>
       </provider>
